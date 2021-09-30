@@ -1,4 +1,8 @@
-# engineer-thesis-fragment
+# My engineer thesis fragment
+
+This is an excerpt from my engineering thesis, which involves implementing an immersive game using augmented, virtual or mixed reality technology.
+  
+Polish language:
 
 ![example2](./images/1.png)
 ![example2](./images/2.png)
@@ -20,3 +24,6 @@
 ![example2](./images/18.png)
 ![example2](./images/19.png)
 ![example2](./images/20.png)
+
+Game implementation:  
+https://github.com/jagwoz/ar-augmented-reality-game-unity  
